@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+ENV/
+*.egg-info/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Docker
+*.log
+debug.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data and uploads
+uploads/
+data/
+
+# Docs and PDFs
+*.pdf
+*.docx
+
+# Others
+*.jpeg
+logo.jpeg
+
+# Ignore environment files
+.env*
+
+# Ignore resume files
+cv/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
